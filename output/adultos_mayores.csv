@@ -1,0 +1,20 @@
+,COLUMNA,NOMBRE TABLA,REGISTROS TOTALES,CANTIDAD DE INCOMPLETOS,CANTIDAD DE COMPLETOS,PORCENTAJE COMPLETITUD,EXACTO,INEXACTO,PORCENTAJE DE EXACTITUD
+0,insertion_date,adultos_mayores,51523,0,51523,100.0,51523,0,100.0
+1,ultimo_examen,adultos_mayores,51523,17,51506,99.97,51506,0,100.0
+2,nrodocumento,adultos_mayores,51523,1,51522,100.0,51483,38,99.93
+3,fecha_formulario,adultos_mayores,51523,44009,7514,14.58,7514,0,100.0
+4,cuil,adultos_mayores,51523,44140,7383,14.33,7321,61,99.17
+5,localidad,adultos_mayores,51523,2657,48866,94.84,48374,491,99.0
+6,genero,adultos_mayores,51523,0,51523,100.0,51523,0,100.0
+7,apellido,adultos_mayores,51523,0,51523,100.0,51520,2,100.0
+8,altura,adultos_mayores,51523,1309,50214,97.46,48924,1278,97.45
+9,fecha_alta_usuario,adultos_mayores,51523,18455,33068,64.18,33068,0,100.0
+10,tipo_documento,adultos_mayores,51523,0,51523,100.0,51523,0,100.0
+11,plan_estudio,adultos_mayores,51523,0,51523,100.0,51523,0,100.0
+12,cp,adultos_mayores,51523,6287,45236,87.8,44735,488,98.92
+13,nombre,adultos_mayores,51523,0,51523,100.0,51504,18,99.97
+14,provincia,adultos_mayores,51523,0,51523,100.0,51523,0,100.0
+15,calle,adultos_mayores,51523,45,51478,99.91,51462,0,100.0
+16,municipio,adultos_mayores,51523,51502,21,0.04,21,0,100.0
+17,fecha_nacimiento,adultos_mayores,51523,0,51523,100.0,51362,0,100.0
+18,estado,adultos_mayores,51523,0,51523,100.0,51523,0,100.0

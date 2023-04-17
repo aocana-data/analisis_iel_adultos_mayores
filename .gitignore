@@ -1,0 +1,3 @@
+venv
+.env
+config_sample_mysql/mysql_docker_db/mysql/
